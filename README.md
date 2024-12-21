@@ -284,8 +284,7 @@ delay (2000);
 
 - 6.- Seleccionar el sensor en la parte de Simulacion con el botón **+** y buscar **LCDI2C**, **HC-SR04**, **Relay** Agregar y conectar de la siguiente manera.
 
-
-
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/conexion%20nivel%20de%20agua.jpeg )
 
 ## Instrucción de operación:
 - Correr el simulador
