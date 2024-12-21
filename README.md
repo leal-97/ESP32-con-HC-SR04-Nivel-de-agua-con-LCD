@@ -296,19 +296,6 @@ delay (2000);
 ## Resultados
 Cuando haya compilado el código y corra la simulación, verás los valores y los textos en la pantalla LCD como se muestran en las siguentes imagenes cada 2s.
 
-
-
-## Referencias
-
-- Sensor ultrasónico HC-SR04. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-ultrasonico-hc-sr04/?srsltid=AfmBOoo2PRtZH3TYMrjSWNY0K-zpGZCoLoRpQKGxj_-p06fbH3TMoraF
-- ESP32 30 Pines. (s.f.). Transtronix. https://transtronix.com.mx/productos/esp32-30-pines/?srsltid=AfmBOoo9Q1Vc1XVCLC0ZsFSZCIyZ97hdDYoH6Qf2gwDvs2M-5pUDvXv5
-- Sensor de humedad y temperatura DHT22. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-de-humedad-y-temperatura-dht22/?srsltid=AfmBOoo2GcDGu0hr44E75_ZvkYeEb_3f_b8i974KTgGTsq6kfgWZMjGH
-
-## Créditos
-Desarrollado por: **Ing. Mecánico Eduardo Leal**
-
-- https://github.com/leal-97
-
 ![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/dip.jpeg )
 
 ![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/leal.jpeg )
@@ -354,7 +341,15 @@ Desarrollado por: **Ing. Mecánico Eduardo Leal**
 
 -led 1,2,3,4 apagados.
 
-Desarrollado por
-Diego David Bahena Galan
 
-GitHub
+## Referencias
+
+- Sensor ultrasónico HC-SR04. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-ultrasonico-hc-sr04/?srsltid=AfmBOoo2PRtZH3TYMrjSWNY0K-zpGZCoLoRpQKGxj_-p06fbH3TMoraF
+- ESP32 30 Pines. (s.f.). Transtronix. https://transtronix.com.mx/productos/esp32-30-pines/?srsltid=AfmBOoo9Q1Vc1XVCLC0ZsFSZCIyZ97hdDYoH6Qf2gwDvs2M-5pUDvXv5
+- Sensor de humedad y temperatura DHT22. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-de-humedad-y-temperatura-dht22/?srsltid=AfmBOoo2GcDGu0hr44E75_ZvkYeEb_3f_b8i974KTgGTsq6kfgWZMjGH
+
+## Créditos
+Desarrollado por: **Ing. Mecánico Eduardo Leal**
+
+- https://github.com/leal-97
+
