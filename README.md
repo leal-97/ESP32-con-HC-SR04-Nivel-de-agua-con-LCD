@@ -309,57 +309,50 @@ Desarrollado por: **Ing. Mecánico Eduardo Leal**
 
 - https://github.com/leal-97
 
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/dip.jpeg )
+
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/leal.jpeg )
 
 
 -Tanque al 90% de nivel de agua.
 
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/90%25.jpeg )
+
+
 -led 1 encendido, led 2,3,4 apagados.
 
-image
-
-image
-
-image
 
 -Tanque al 75% de nivel de agua.
 
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/75.jpeg )
+
+
 -led 1 y 2 encendidos, led 3,4 apagados.
-
-image
-
-image
-
-image
 
 -Tanque al 50% de nivel de agua.
 
+
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/50.jpeg )
+
+
 -led 3 encendido, led 1,2,4 apagados.
 
-image
-
-image
-
-image
 
 -Tanque al 35% de nivel de agua.
 
+![]( https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/35.jpeg )
+
+
 -led 3 y 4 encendidos, led 1,2 apagados.
 
-image
-
-image
-
-image
 
 -Tanque al 5% de nivel de agua.
 
+
+![](  https://github.com/leal-97/ESP32-con-HC-SR04-Nivel-de-agua-con-LCD/blob/main/5.jpeg )
+
+
 -led 1,2,3,4 apagados.
-
-image
-
-image
-
-image
 
 Desarrollado por
 Diego David Bahena Galan
